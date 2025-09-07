@@ -1,0 +1,29 @@
+.red-text {
+      color: red;
+    }
+    .green-text {
+      color: green;
+    }
+    .italic-text {
+      font-style: italic;
+    }
+    .bold-text {
+      font-weight: bold;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    ol {
+      list-style-type: decimal;
+      padding-left: 30px;
+    }
+    .green-item {
+      color: green;
+    }
+    .red-item {
+      color: red;
+    }
+    .blue-item {
+      color: blue;
+    }
